@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cure Bites</string>
+    <string name="subscription_desc">If your HbA1c is 8.2 → it\'s time to review your sugar intake! Your weekly session is this <b>Saturday at 11 AM</b>. Drink more water and reduce evening snacks.</string>
 </resources>
