@@ -12,6 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CureBites">
         <activity
+            android:name=".MealPlanTuesdayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MealPlanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HealingPlanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadReportActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
