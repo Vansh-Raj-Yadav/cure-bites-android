@@ -24,16 +24,17 @@
             android:layout_height="wrap_content"
             android:text="Cure Bites"
             android:textColor="#FFFFFF"
-            android:textSize="40sp"
+            android:textSize="50sp"
             android:textStyle="bold"
             android:layout_marginTop="10dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Food as medicine. Health in Every Bite"
+            android:text="Healing Starts On Your Plate"
             android:textColor="#FFFFFF"
-            android:textSize="15sp" />
+            android:textStyle="bold"
+            android:textSize="20sp" />
     </LinearLayout>
 
     <LinearLayout
@@ -61,6 +62,8 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             app:cardCornerRadius="60dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
             app:cardElevation="6dp">
             <ImageView
                 android:layout_width="match_parent"
@@ -119,7 +122,7 @@
             android:layout_marginTop="25dp"
             android:text="Get Started"
             android:textColor="#000000"
-            android:textSize="18sp"
+            android:textSize="22sp"
             android:textStyle="bold"
             android:textAllCaps="false"
             android:background="@drawable/yellow_button_bg" />
@@ -132,7 +135,7 @@
             android:text="Already have an account? Login"
             android:textColor="#FFFFFF"
             android:gravity="center"
-            android:textSize="14sp"
+            android:textSize="16sp"
             android:background="@drawable/outline_button_bg" />
     </LinearLayout>
 
