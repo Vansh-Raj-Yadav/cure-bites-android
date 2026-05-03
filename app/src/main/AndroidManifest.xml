@@ -64,6 +64,22 @@
             android:name=".MainActivity"
             android:exported="false" />
 
+
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MealDetailsActivity" />
+
+        <activity android:name=".CartActivity" />
+
+        <activity android:name=".CheckoutActivity" />
+
     </application>
 
 </manifest>
