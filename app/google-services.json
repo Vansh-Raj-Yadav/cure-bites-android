@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797452199115",
+    "project_id": "cure-bites",
+    "storage_bucket": "cure-bites.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797452199115:android:2c42baa1307747ac6de74e",
+        "android_client_info": {
+          "package_name": "com.example.curebites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1YGF3G7TJ565dqvm2HDSxHhwnHWjWV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
